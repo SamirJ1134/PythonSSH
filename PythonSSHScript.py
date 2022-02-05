@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-
-#PYT200: PYT SSH (using paramiko) project using a file for input and the 
-#creation of a new file for output of deliverable data
  
 import paramiko
 import getpass
